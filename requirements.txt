@@ -1,0 +1,9 @@
+langchain
+langchain_community
+pymupdf
+pinecone
+openai
+openrouter
+streamlit
+PyPDF2
+

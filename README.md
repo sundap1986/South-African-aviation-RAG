@@ -35,6 +35,10 @@
    streamlit run app.py
 
 #### Artifacts #### 
+![image](https://github.com/user-attachments/assets/a56d1c0f-50d7-4375-882a-0de5d133a7d6)
+
+![image](https://github.com/user-attachments/assets/8fcc0877-d989-4469-b7ca-67a9327c57b3)
+
 ![image](https://github.com/user-attachments/assets/44538e41-da80-4c24-8ad0-bd840abaf9e9)
 
 ![image](https://github.com/user-attachments/assets/fddbc581-45b2-4242-8aa7-57b92b565127)
